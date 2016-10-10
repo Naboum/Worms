@@ -6,7 +6,7 @@ import joueur.Personnage;
 
 /**
  * 
- *Classe basique pour les armes utilisables
+ * Classe basique pour les armes utilisables
  *
  */
 public abstract class Arme {
